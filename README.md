@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SCLemon</h1>
 <h3 align="center">A passionate Java & JavaScript developer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sc1314520&label=Profile%20views&color=0e75b6&style=flat" alt="sc1314520" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sclemon&label=Profile%20views&color=0e75b6&style=flat" alt="sclemon" /> </p>
 
 - 🌱 I’m currently learning **VueJS & SpringFrameWork**
 
@@ -27,6 +27,6 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sc1314520&show_icons=true&locale=en&layout=compact" alt="sc1314520" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sclemon&show_icons=true&locale=en&layout=compact" alt="sclemon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sc1314520&show_icons=true&locale=en" alt="sc1314520" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sclemon&show_icons=true&locale=en" alt="sclemon" /></p>
