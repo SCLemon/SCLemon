@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SCLemon</h1>
-<h3 align="center">A passionate Java & JavaScript developer from Taiwan</h3>
+<h3 align="center">A passionate VueJS & NodeJS developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sclemon&label=Profile%20views&color=0e75b6&style=flat" alt="sclemon" /> </p>
 
-- 🌱 I’m currently learning **VueJS & SpringFrameWork**
+- 🌱 I’m currently learning **VueJS & NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://sclemon.github.io/sccj/](https://sclemon.github.io/sccj/)
 
