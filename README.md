@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJS & NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://sclemon.com/](https://sclemon.com/)
+- 👨‍💻 All of my projects are available at [https://sclemon.com/](https://sclemon.com/#/)
 
 - 📫 How to reach me **blc0000421@gmail.com**
 
